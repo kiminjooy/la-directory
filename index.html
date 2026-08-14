@@ -761,6 +761,43 @@
       background: #eef2f7;
     }
 
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 34px;
+    }
+
+    .page-btn {
+      min-width: 40px;
+      height: 40px;
+      padding: 0 12px;
+      border: 1px solid #dfe5ed;
+      border-radius: 10px;
+      background: #ffffff;
+      color: #111827;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .page-btn:hover:not(:disabled) {
+      border-color: #111827;
+    }
+
+    .page-btn.active {
+      background: #111827;
+      border-color: #111827;
+      color: #ffffff;
+    }
+
+    .page-btn:disabled {
+      opacity: .35;
+      cursor: default;
+    }
+
     @media (max-width: 900px) {
       .nav { display: none; }
       .hero-inner { grid-template-columns: 1fr; min-height: auto; }
@@ -846,6 +883,28 @@
 
     let companies = [];
 
+    let currentPage = 1;
+    const ITEMS_PER_PAGE = 9;
+
+    const CATEGORY_ORDER = {
+      "K-Beauty": 1,
+      "K-Food": 2,
+      "K-Lifestyle": 3
+    };
+
+    function getCategoryOrder(category) {
+      const categories = String(category || "")
+        .split(",")
+        .map(item => item.trim())
+        .filter(Boolean);
+
+      if (!categories.length) return 999;
+
+      return Math.min(
+        ...categories.map(item => CATEGORY_ORDER[item] || 999)
+      );
+    }
+
     fetch("./companies.json", { cache: "no-cache" })
   .then(res => {
     if (!res.ok) {
@@ -915,21 +974,50 @@
       }
 
       const filteredProducts = filtered.flatMap(company =>
-  (company.products || []).map((product, productIndex) => ({
-    company,
-    product,
-    productIndex
-  }))
-);
+        (company.products || []).map((product, productIndex) => ({
+          company,
+          product,
+          productIndex
+        }))
+      );
 
-resultCount.textContent = filteredProducts.length;
+      filteredProducts.sort((a, b) => {
+        return (
+          getCategoryOrder(a.company.category) -
+          getCategoryOrder(b.company.category)
+        );
+      });
 
-if (!filteredProducts.length) {
-  grid.innerHTML = `<div class="empty">No matching products found.</div>`;
-  return;
-}
+      resultCount.textContent = filteredProducts.length;
 
-grid.innerHTML = filteredProducts.map(({ company, product, productIndex }) => `
+      if (!filteredProducts.length) {
+        grid.innerHTML = `<div class="empty">No matching products found.</div>`;
+        return;
+      }
+
+      const totalPages = Math.ceil(
+        filteredProducts.length / ITEMS_PER_PAGE
+      );
+
+      if (currentPage > totalPages) {
+        currentPage = totalPages;
+      }
+
+      if (currentPage < 1) {
+        currentPage = 1;
+      }
+
+      const startIndex =
+        (currentPage - 1) * ITEMS_PER_PAGE;
+
+      const paginatedProducts =
+        filteredProducts.slice(
+          startIndex,
+          startIndex + ITEMS_PER_PAGE
+        );
+
+      grid.innerHTML = paginatedProducts.map(
+        ({ company, product, productIndex }) => `
   <article class="company-card">
 
     <div class="visual ${getVisualClass(
@@ -1001,6 +1089,8 @@ grid.innerHTML = filteredProducts.map(({ company, product, productIndex }) => `
   </article>
 `).join("");
 
+renderPagination(totalPages);
+
       function getVisualClass(category) {
         switch ((category || "").trim()) {
           case "K-Beauty":
@@ -1018,6 +1108,73 @@ grid.innerHTML = filteredProducts.map(({ company, product, productIndex }) => `
       }
     }
 
+
+    function renderPagination(totalPages) {
+      let pagination = document.getElementById("pagination");
+
+      if (!pagination) {
+        pagination = document.createElement("div");
+        pagination.id = "pagination";
+        pagination.className = "pagination";
+
+        grid.insertAdjacentElement(
+          "afterend",
+          pagination
+        );
+      }
+
+      if (totalPages <= 1) {
+        pagination.innerHTML = "";
+        return;
+      }
+
+      let html = "";
+
+      html += `
+        <button
+          class="page-btn"
+          ${currentPage === 1 ? "disabled" : ""}
+          onclick="changePage(${currentPage - 1})"
+        >
+          ‹
+        </button>
+      `;
+
+      for (let page = 1; page <= totalPages; page++) {
+        html += `
+          <button
+            class="page-btn ${page === currentPage ? "active" : ""}"
+            onclick="changePage(${page})"
+          >
+            ${page}
+          </button>
+        `;
+      }
+
+      html += `
+        <button
+          class="page-btn"
+          ${currentPage === totalPages ? "disabled" : ""}
+          onclick="changePage(${currentPage + 1})"
+        >
+          ›
+        </button>
+      `;
+
+      pagination.innerHTML = html;
+    }
+
+    function changePage(page) {
+      currentPage = page;
+      renderCompanies();
+
+      document
+        .getElementById("companies")
+        .scrollIntoView({
+          behavior: "smooth",
+          block: "start"
+        });
+    }
     function removeKoreanParentheses(value) {
       return String(value || "")
         .replace(/\s*\([^)]*[가-힣][^)]*\)/g, "")
@@ -1182,8 +1339,15 @@ grid.innerHTML = filteredProducts.map(({ company, product, productIndex }) => `
       if (event.key === "Escape") closeModal();
     });
 
-    searchInput.addEventListener("input", renderCompanies);
-    CategoryFilter.addEventListener("change", renderCompanies);
+    searchInput.addEventListener("input", () => {
+      currentPage = 1;
+      renderCompanies();
+    });
+
+    CategoryFilter.addEventListener("change", () => {
+      currentPage = 1;
+      renderCompanies();
+    });
 
     function renderStats() {
       const statsContainer = document.getElementById("statsContainer");
