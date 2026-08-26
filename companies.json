@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "824-86-02446",
+    "name": "Sauceco Co., Ltd.",
+    "businessNumber": "824-86-02446",
+    "booth": "C09",
+    "category": "K-Food",
+    "subcategory": "Sauce",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://sauceco.kr/",
+    "websites": [
+      "https://sauceco.kr/"
+    ],
+    "catalog": "https://drive.google.com/open?id=13b9ZdvSENu0Cyi9YYxFhtRq2AJBEGfti&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=13b9ZdvSENu0Cyi9YYxFhtRq2AJBEGfti&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/824-86-02446_1.jpg",
+        "name": "Seoul Sauce 1991 Original Gochujang Sauce",
+        "description": "The signature Korean gochujang sauce with a perfect balance of sweet, savory, and mildly spicy flavors. Versatile for dipping, marinating, stir-frying, and adding authentic Korean taste to a wide variety of dishes.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Seoul+Sauce+1991+Original+Gochujang+Sauce"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/824-86-02446_2.jpg",
+        "name": "Seoul Sauce 1991 Truffle Gochujang Sauce",
+        "description": "A premium fusion of Korean gochujang and aromatic black truffle. Rich umami and a luxurious truffle flavor make it an ideal pairing for steak, fries, burgers, pizza, pasta, and gourmet recipes.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Seoul+Sauce+1991+Truffle+Gochujang+Sauce"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/824-86-02446_3.jpg",
+        "name": "Seoul Sauce 1991 Carbo Gochujang Sauce",
+        "description": "A creamy Korean-style gochujang sauce blended with rich cheese flavors. Mildly spicy and smooth, it is perfect for pasta, fried chicken, sandwiches, baked dishes, and everyday comfort meals.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Seoul+Sauce+1991+Carbo+Gochujang+Sauce"
+      },
+      {
+        "id": "product-04",
+        "imageIndex": 4,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/824-86-02446_4.jpg",
+        "name": "Seoul Sauce 1991 Mala Gochujang Sauce",
+        "description": "A bold fusion of Korean gochujang and authentic Sichuan mala spices. Delivers a unique combination of spicy, numbing, and savory flavors, ideal for stir-fries, grilled meats, hot pot, noodles, and dipping sauces.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Seoul+Sauce+1991+Mala+Gochujang+Sauce"
+      },
+      {
+        "id": "product-05",
+        "imageIndex": 5,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/824-86-02446_5.jpg",
+        "name": "Seoul Sauce 1991 Hot Curry Gochujang Sauce",
+        "description": "A unique blend of Korean gochujang and aromatic curry spices with a spicy kick. Rich, flavorful, and versatile, it pairs perfectly with fried chicken, rice bowls, grilled meats, fries, wraps, and snacks.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Seoul+Sauce+1991+Hot+Curry+Gochujang+Sauce"
+      }
+    ]
+  },
+  {
+    "id": "320-81-02615",
+    "name": "concept b Inc.",
+    "businessNumber": "320-81-02615",
+    "booth": "C10",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Distributing",
+    "oemOdm": "Available",
+    "website": "https://concept-b.co.kr/",
+    "websites": [
+      "https://concept-b.co.kr/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1jwAUAq_03vuzlCMnWoJOdpoUGbXYaZPc",
+    "catalogs": [
+      "https://drive.google.com/open?id=1jwAUAq_03vuzlCMnWoJOdpoUGbXYaZPc"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/320-81-02615_1.jpg",
+        "name": "Mae Il Cream Toner",
+        "description": "A refreshing toner that hydrates and moisturizes like a rich cream, all in one bottle! This ceramide cream toner offers an excellent, \"2nd-skin-like\" feel with a smooth finish. Main ingredients include: 5 different ceramides (EOP, NS, NP, AS, AP) that form a protective layer on the skin; L22, a patented, naturally-derived lipid complex designed to mimic the skin lipid structure of healthy 22-year-old skin; and D-panthenol, which converts into vitamin B5 when absorbed into the skin, helping soothe irritated skin and enhance the skin barrier.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Mae+Il+Cream+Toner"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/320-81-02615_2.jpg",
+        "name": "Su Boon Jo Serum",
+        "description": "Fast-absorbing and deeply hydrating, this formula helps refine skin texture for a smoother, more radiant feel. Micro-sized ceramides lock in moisture for a naturally beautiful makeup look. Main ingredients include: Ceramide NP (via patented fluidizing technology that enhances even absorption); 8 types of hyaluronic acid that vary in molecular weight and thereby enhance moisture while simultaneously forming a moisture-locking barrier on the skin's surface; and betaine, proven to improve skin barrier recovery by 219.83%.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Su+Boon+Jo+Serum"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/320-81-02615_3.jpg",
+        "name": "Mae Kkeun Cream",
+        "description": "A hydrating, gel-like cream that quickly absorbs and strengthens the skin barrier, leaving the skin smooth, supple, and prepped for seamless makeup application. Main ingredients include: 5 types of ceramides (same types as the ones included in the cream toner); a Botanical Oil Complex consisting of Olive Oil, Shea Butter, and Squalane, all of which maintain moisture balance while keeping the skin smooth and supple; Niacinamide; and Beta-Glucan.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Mae+Kkeun+Cream"
+      }
+    ]
+  },
+  {
+    "id": "312-81-23021",
+    "name": "Sunin Co., Ltd.",
+    "businessNumber": "312-81-23021",
+    "booth": "C11",
+    "category": "K-Food",
+    "subcategory": "Food, Beverage",
+    "industry": "Manufacturing & Distributing",
+    "oemOdm": "Available",
+    "website": "https://sib.kr/",
+    "websites": [
+      "https://sib.kr/"
+    ],
+    "catalog": "https://drive.google.com/open?id=10u0R_x_PlGL5Oi_7NakPJF23CPux7K6V&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=10u0R_x_PlGL5Oi_7NakPJF23CPux7K6V&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-23021_1.jpg",
+        "name": "Ever-whip",
+        "description": "Best-selling premium non-dairy vegan whipping cream, manufactured by SIB (Sun-in for Baking). Engineered for professional bakers, pastry chefs, and beverage makers, it delivers unmatched structural stability, exceptional overrun, and a smooth, glossy finish.\n- Superior Stability: Withstands warm kitchen temperatures and outdoor environments without collapsing or cracking.\n- High Overrun Rate: Expands up to 3 to 4 times its original liquid volume when whipped, maximizing cost efficiency.\n- Diabetic-Friendly & Sugar-Free: Formulated with sorbitol instead of glucose or corn syrup, making it suitable for health-conscious consumers.\n- Lactose-Free & Vegan Options: A 100% plant-based cream ideal for lactose-intolerant, vegetarian, and vegan diets.\n- Exquisite Texture: Produces a light, snow-white, smooth mouthfeel with excellent piping definitions for cake decorations.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Ever-whip"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-23021_2.jpg",
+        "name": "Ambient Yuzu Puree",
+        "description": "Discover the exceptional flavor of authentic Korean Yuzu with our Premium Ambient Yuzu Puree. Sourced exclusively from Goheung, South Korea—the world-renowned capital of pristine Yuzu cultivation—our puree captures the perfect balance of intense floral aroma, vibrant acidity, and subtle sweetness. Thanks to Goheung’s abundant sunshine and clean ocean breezes, these fruits possess a thicker rind and richer essential oils, delivering an unparalleled depth of flavor.\n- Origin: 100% Goheung, South Korea\n- Storage: Ambient temperature (Shelf-stable)\n- Applications: Kraft beers, cocktails, teas, bakery, dressings, and desserts",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Ambient+Yuzu+Puree"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-23021_3.jpg",
+        "name": "Snowman Korean Shaved Ice (Bingsu)",
+        "description": "Bingsu is a globally trending, premium Korean frozen dessert characterized by its uniquely fluffy and melt-in-your-mouth texture. Unlike conventional Western water-based snow cones, authentic Korean Bingsu utilizes a specialized freezing technique to shave milk, dairy mixes, or flavored juices into delicate, snow-like flakes",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Snowman+Korean+Shaved+Ice+(Bingsu)"
+      }
+    ]
+  },
+  {
+    "id": "862-81-01333",
+    "name": "Powerplayer (Ongredients)",
+    "businessNumber": "862-81-01333",
+    "booth": "C12",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Manufacturing",
+    "oemOdm": "Unavailable",
+    "website": "https://ongredients.com/",
+    "websites": [
+      "https://ongredients.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1EBtOWjqXE8JLSmSv9Y6nCwEVhOxmPYC9&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1EBtOWjqXE8JLSmSv9Y6nCwEVhOxmPYC9&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/862-81-01333_1.jpg",
+        "name": "ONGREDIENTS Skin Barrier Calming Lotion EX",
+        "description": "ONGREDIENTS Skin Barrier Calming Lotion EX delivers visible radiance and translucency you can see — up to 2.4x more luminous — thanks to its Hyalsome-PA™ hyaluronic-acid liposome technology. A 12-peptide complex with ultra-low molecular weight collagen provides 24-hour dual-layer plumping and hydration, while a CICA + TECA \"trouble-free\" calming formula has been dermatologically tested safe for acne-prone skin. Recommended for dry, flaky, sensitive, and acne-prone skin.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=ONGREDIENTS+Skin+Barrier+Calming+Lotion+EX"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/862-81-01333_2.jpg",
+        "name": "ONGREDIENTS BakuGlow Capsule Lotion",
+        "description": "ONGREDIENTS BakuGlow™ Capsule Lotion is a next-generation capsule lotion that delivers deep glow from within. Its water-bursting gel texture releases an instant splash of hydration, while Bakuchiol and Niacinamide capsules plump skin elasticity and lock in an oil-moisture barrier. Skin feels instantly moist and bouncy, absorbing fully within 3–5 minutes for a completely weightless finish that grips makeup perfectly. Perfect for skin that feels tight and dehydrated from within.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=ONGREDIENTS+BakuGlow+Capsule+Lotion"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/862-81-01333_3.jpg",
+        "name": "ONGREDIENTS Skin Barrier Glow Mist",
+        "description": "ONGREDIENTS Skin Barrier Glow Mist is a dual-layer toner-lotion in one bottle, formulated for both dry and oily skin. Glutathione and a 6-peptide complex enhance clarity, radiance, and barrier strength, while Alaskan glacier water cools skin by 4.52°C in just 3 seconds, calming redness and keeping skin at the ideal 31.4°C for flawless makeup adherence. An ultra-fine mist sprays evenly with zero water droplets, making it perfect for on-the-go hydration, even over makeup.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=ONGREDIENTS+Skin+Barrier+Glow+Mist"
+      }
+    ]
+  },
+  {
+    "id": "525-88-03159",
+    "name": "GLOKIN Inc.",
+    "businessNumber": "525-88-03159",
+    "booth": "C13",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://glokinkorea.com",
+    "websites": [
+      "https://glokinkorea.com"
+    ],
+    "catalog": "https://drive.google.com/open?id=1VRGWhc4RqiVnrq_iiEffPWNDzRcM0iGB&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1VRGWhc4RqiVnrq_iiEffPWNDzRcM0iGB&usp=drive_copy",
+      "https://drive.google.com/open?id=1wLNX_z9167-tZdZjvplWglZU_KyqGimA&usp=drive_copy",
+      "https://drive.google.com/open?id=1sHm4dSYymzBedp72N1Vffp73sJbenuaw&usp=drive_copy",
+      "https://drive.google.com/open?id=1Csq-hGgw1-AXgwxGlf6ACMFEpS_ouZaH&usp=drive_copy",
+      "https://drive.google.com/open?id=1GPSjot0QuhQg37boQr6qTjBZp0fdFKwS&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/525-88-03159_1.jpg",
+        "name": "ARRIBA Collagen Aqua Booster Cream 28 ml / 50 ml",
+        "description": "A daily collagen booster cream formulated with French 300Da low-molecular collagen, eight types of hyaluronic acid and nine amino-peptide ingredients. It supports deep hydration, elasticity care and a smooth, luminous finish without stickiness. Available in two sizes: a 50 ml full size for a complete daily skincare routine and a compact 28 ml size ideal for travel, gifting, trial purchases and market testing. Korean dual-functional cosmetic for brightening and wrinkle care. U.S. MoCRA Product Listing: Active.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=ARRIBA+Collagen+Aqua+Booster+Cream+28+ml+/+50+ml"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/525-88-03159_2.jpg",
+        "name": "PINNACLE Super Collagen Hydrogel Overnight Sleep Mask (4 Sheets)",
+        "description": "An intensive hydrogel mask designed to adhere comfortably and deliver moisture as part of an evening skincare routine. The formula combines low-molecular collagen, peptides and multi-molecular hyaluronic acid for a home-aesthetic hydration and elasticity ritual. Korean dual-functional cosmetic for brightening and wrinkle care. Available for OEM/ODM as a finished product. U.S. MoCRA Product Listing: Active.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=PINNACLE+Super+Collagen+Hydrogel+Overnight+Sleep+Mask+(4+Sheets)"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/525-88-03159_3.jpg",
+        "name": "AURA Silkfoam Foaming Cleanser 140ml",
+        "description": "A pre-foamed facial cleanser with fine micro-bubbles and a five-grain protein complex. It helps remove daily residue and excess sebum while leaving the skin fresh, clean and comfortable. Korean Vegan Certification renewal is in progress. U.S. MoCRA Product Listing: Active.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=AURA+Silkfoam+Foaming+Cleanser+140ml"
+      }
+    ]
+  },
+  {
+    "id": "705-88-02061",
+    "name": "EARNEST F&B Co., Ltd.",
+    "businessNumber": "705-88-02061",
+    "booth": "C14",
+    "category": "K-Food",
+    "subcategory": "Food, Ready-to-eat snacks",
+    "industry": "Manufacturing",
+    "oemOdm": "Unavailable",
+    "website": "https://m.pororofood.co.kr/",
+    "websites": [
+      "https://m.pororofood.co.kr/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1LOtLvYP8Rph4zdeVpNxrGBpWhTtQhDIq",
+    "catalogs": [
+      "https://drive.google.com/open?id=1LOtLvYP8Rph4zdeVpNxrGBpWhTtQhDIq"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_1.jpg",
+        "name": "Pororo Spicy Tteokbokki",
+        "description": "Pororo Spicy Tteokbokki is a convenient Korean rice cake meal featuring a rich and spicy sauce. Packaged in an easy-to-prepare cup with the popular Pororo character, it is ideal for retail stores, convenience stores, and international food markets.\nNet Weight: 120 g \nShelf Life: 12 months\nStorage: Store at room temperature\nPacking: 32 cups per carton\nCarton Size: 380 × 385 × 250 mm\nBarcode: 8809380343392",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Pororo+Spicy+Tteokbokki"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_2.jpg",
+        "name": "Pororo Mini Yakgwa (Honey Cookies)",
+        "description": "Pororo Mini Yakgwa is a bite-sized version of yakgwa, a traditional Korean honey cookie. Its convenient individual packaging and popular Pororo character make it suitable for children, families, convenience stores, supermarkets, and international snack markets.\nNet Weight: 120 g\nShelf Life: 9 months\nStorage: Store at room temperature\nPacking: 20 bags per carton\nCarton Size: 346 × 326 × 260 mm\nCBM: 0.029327\nBarcode: 8809380344122\nAllergen Information: Contains wheat",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Pororo+Mini+Yakgwa+(Honey+Cookies)"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_3.jpg",
+        "name": "Pororo Choco Cream Churros (12 pcs)",
+        "description": "Pororo Choco Cream Churros are crispy, flower-shaped churros filled with rich chocolate cream. Each retail box contains 12 individually wrapped pieces featuring popular Pororo characters, making the product suitable for children, families, supermarkets, convenience stores, and international snack markets.\nNet Weight: 210 g\nContents: 12 individually wrapped pieces\nShelf Life: 12 months\nStorage: Store at room temperature in a cool, dry place away from direct sunlight\nPacking: 8 retail boxes per carton\nCarton Size: 420 × 250 × 215 mm\nCBM: 0.022575\nBarcode: 8809673970052\nAllergen Information: Contains wheat, milk, and soy.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Pororo+Choco+Cream+Churros+(12+pcs)"
+      },
+      {
+        "id": "product-04",
+        "imageIndex": 4,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_4.jpg",
+        "name": "Zanmang Loopy Cheese Tteokbokki Snack",
+        "description": "Zanmang Loopy Cheese Tteokbokki Snack is a crunchy, tteokbokki-shaped wheat snack coated with a rich and savory cheese seasoning. Its distinctive character packaging makes it suitable for convenience stores, supermarkets, character-goods retailers, and international snack markets.\nNet Weight: 80 g\nShelf Life: 12 months\nStorage: Store at room temperature\nPacking: 12 bags per carton\nCarton Size: 310 × 235 × 205 mm\nCBM: 0.014934\nBarcode: 8809380344627\nAllergen Information: Contains wheat, soy, milk, tomato, and beef.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Zanmang+Loopy+Cheese+Tteokbokki+Snack"
+      },
+      {
+        "id": "product-05",
+        "imageIndex": 5,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_5.jpg",
+        "name": "Zanmang Loopy Hot Chili Lime Tteokbokki Snack",
+        "description": "Zanmang Loopy Hot Chili Lime Tteokbokki Snack is a crunchy, tteokbokki-shaped snack featuring a bold combination of spicy chili and refreshing lime flavors. Its eye-catching Zanmang Loopy character packaging makes it suitable for convenience stores, supermarkets, character-goods retailers, and international snack markets.\nNet Weight: 80 g\nShelf Life: 12 months\nStorage: Store at room temperature\nPacking: 12 bags per carton\nCarton Size: 310 × 235 × 205 mm\nCBM: 0.014934\nBarcode: 8809380345112\nAllergen Information: Contains wheat, egg, milk, soy, pork, beef, chicken, shrimp, and tomato.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Zanmang+Loopy+Hot+Chili+Lime+Tteokbokki+Snack"
+      },
+      {
+        "id": "product-06",
+        "imageIndex": 6,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_6.jpg",
+        "name": "Zanmang Loopy Strawberry Cube Snack",
+        "description": "Zanmang Loopy Strawberry Cube Snack is a light and crispy cube-shaped snack coated with a sweet and creamy strawberry seasoning. Its colorful character packaging makes it suitable for children, families, supermarkets, convenience stores, and international snack markets.\nNet Weight: 46 g\nShelf Life: 12 months\nStorage: Store at room temperature in a cool, dry place\nPacking: 16 bags per carton\nCarton Size: 480 × 260 × 145 mm\nCBM: 0.018096\nBarcode: 8800246200385\nAllergen Information: Contains milk and wheat.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Zanmang+Loopy+Strawberry+Cube+Snack"
+      },
+      {
+        "id": "product-07",
+        "imageIndex": 7,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_7.jpg",
+        "name": "Zanmang Loopy Cheese Cube Snack",
+        "description": "Zanmang Loopy Cheese Cube Snack is a light and crispy cube-shaped snack coated with a rich and savory cheese seasoning. Its eye-catching character packaging makes it suitable for children, families, supermarkets, convenience stores, and international snack markets.\nNet Weight: 46 g\nShelf Life: 12 months\nStorage: Store at room temperature in a cool, dry place\nPacking: 16 bags per carton\nCarton Size: 480 × 260 × 145 mm\nCBM: 0.018096\nBarcode: 8800246200408\nAllergen Information: Contains milk and wheat.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Zanmang+Loopy+Cheese+Cube+Snack"
+      },
+      {
+        "id": "product-08",
+        "imageIndex": 8,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_8.jpg",
+        "name": "Zanmang Sweet Raspberry Gummy",
+        "description": "Zanmang Sweet Raspberry Gummy is a soft and chewy raspberry-flavored gummy candy featuring cute Zanmang Loopy character shapes. Each pouch contains 100 mg of vitamin C, making it suitable for children, families, supermarkets, convenience stores, and international confectionery markets.\nNet Weight: 504 g (42 g × 12 pouches)\nShelf Life: 12 months\nStorage: Store below 30°C in a cool, dry place away from direct sunlight.\nPacking: 4 boxes per carton\nCarton Size: 440 × 295 × 165 mm\nCBM: 0.021417\nBarcode: 8809644084450\nAllergen Information: Contains pork-derived gelatin.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Zanmang+Sweet+Raspberry+Gummy"
+      },
+      {
+        "id": "product-09",
+        "imageIndex": 9,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/705-88-02061_9.jpg",
+        "name": "Zanmang Sweet Blueberry Gummy",
+        "description": "Zanmang Sweet Blueberry Gummy is a soft and chewy blueberry-flavored gummy candy featuring cute Zanmang Loopy character shapes. Each pouch contains 100 mg of vitamin C, making it suitable for children, families, supermarkets, convenience stores, and international confectionery markets.\nNet Weight: 504 g (42 g × 12 pouches)\nShelf Life: 12 months\nStorage: Store below 30°C in a cool, dry place away from direct sunlight.\nPacking: 4 boxes per carton\nCarton Size: 440 × 295 × 165 mm\nCBM: 0.021417\nBarcode: 8809644084467\nAllergen Information: Contains pork-derived gelatin.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Zanmang+Sweet+Blueberry+Gummy"
+      }
+    ]
+  },
+  {
+    "id": "220-88-97335",
+    "name": "OU INTERNATIONAL Co., Ltd.",
+    "businessNumber": "220-88-97335",
+    "booth": "C16",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Distributing",
+    "oemOdm": "Available",
+    "website": "https://www.oukorea.com/",
+    "websites": [
+      "https://www.oukorea.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1GC3ULR2Q5P2ChM0UctlA8tUjxHIC-Dq2",
+    "catalogs": [
+      "https://drive.google.com/open?id=1GC3ULR2Q5P2ChM0UctlA8tUjxHIC-Dq2"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/220-88-97335_1.jpg",
+        "name": "P.Z SSOC SSOC NO MORE BLACKHEAD SPECIAL SET",
+        "description": "Formulated with Witch Hazel Water and a patented \ningredient, this pore-specialized cleanser gently dissolves \nand wipes away blackheads and whiteheads around the nose area. As a pioneering sebum-removing solution, it helps thoroughly cleanse impurities deep within pores.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=P.Z+SSOC+SSOC+NO+MORE+BLACKHEAD+SPECIAL+SET"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/220-88-97335_2.jpg",
+        "name": "HELP ME REAL COLLAGEN PAD",
+        "description": "Containing Collagen and Pomegranate extract, helping\ndeliver a visible cheek-lifting effect and promote firmer, \nmore elastic-looking skin.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=HELP+ME+REAL+COLLAGEN+PAD"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/220-88-97335_3.jpg",
+        "name": "Centenol EX Cream 365",
+        "description": "Formulated with 55,143 ppm of Panthenol, known for its excellent skin barrier care and long-lasting hydration, this cream also contains 10 types of Hyaluronic Acid and 6 types of Ceramides. Together, these ingredients create the Hydro-Centenol-Barrier Mechanism, delivering \ncomprehensive barrier care. Built on a high-moisture base, it helps fortify the skin barrier and, with continued use, promotes healthier- looking radiance and improved elasticity.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Centenol+EX+Cream+365"
+      }
+    ]
+  },
+  {
+    "id": "210-87-00613",
+    "name": "Bite Me Inc.",
+    "businessNumber": "210-87-00613",
+    "booth": "C17",
+    "category": "K-Lifestyle",
+    "subcategory": "Pet Toys",
+    "industry": "",
+    "oemOdm": "",
+    "website": "https://www.biteme.co.kr/",
+    "websites": [
+      "https://www.biteme.co.kr/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1fFzO27V8XBMT395kgcQflyRW7dNMHni6&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1fFzO27V8XBMT395kgcQflyRW7dNMHni6&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/210-87-00613_1.jpg",
+        "name": "Biteme Jumping Boogie Auto-Ball Toy",
+        "description": "The Bite Me Jumping Boogie Nosework Playball Automatic Toy is designed to stimulate both your dog’s curiosity and physical activity. Featuring three movement modes, it creates a variety of movement patterns that naturally encourage dogs to interact with, chase, and play with the toy. In addition, its treat-based nosework function provides more than just physical activity by stimulating dogs’ sense of smell and helping improve their concentration. With a single product, dogs can enjoy both automatic movement and nosework activities. Even when pet owners are unable to play with their dogs continuously, the toy encourages dogs to interact and play independently. This makes it a useful way to help reduce boredom during alone time while naturally promoting physical activity. Its cute and friendly design, along with convenient USB Type-C charging, also offers both practicality and visual appeal. Unlike conventional automatic ball toys that simply move or roll, the Jumping Boogie combines automatic movement with a nosework function to provide both physical and mental stimulation. Its various movement modes and treat rewards encourage continued interest and engagement, while offering dogs a more engaging and versatile play experience than conventional automatic toys. This combination of features is a key competitive advantage of the product.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/210-87-00613_2.jpg",
+        "name": "Biteme Braining Spin and Snack Bunny Toy",
+        "description": "The Bite Me Braining Toy Spin & Snack Rabbit Dispenser is an interactive nosework toy that allows dogs to move and rotate the toy themselves to access the treats or kibble inside. Rather than simply dispensing treats, it naturally encourages concentration and problem-solving by rewarding dogs as they interact with and move the toy on their own. The treat-dispensing opening features two adjustable settings, allowing the level of difficulty to be tailored to each dog's experience and temperament. For first-time users, the toy can be set to dispense treats more easily. As dogs become familiar with how it works, the difficulty can be increased to encourage continued interest and engagement. Featuring a cute rabbit design, the product combines practical functionality with visual appeal, making it enjoyable for both dogs and their owners. Unlike conventional treat-dispensing toys that simply release treats when rolled or shaken, the Bite Me Braining Toy offers a more engaging and varied play experience through its rotating rabbit design and adjustable difficulty settings. By encouraging physical activity while also stimulating a dog's sense of smell, concentration, and problem-solving skills, it is ideal for everyday enrichment, mental stimulation, and helping relieve boredom when dogs are left alone.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "220-86-07635",
+    "name": "Bullsone Co., Ltd.",
+    "businessNumber": "220-86-07635",
+    "booth": "C18",
+    "category": "K-Lifestyle",
+    "subcategory": "Functional Cushion",
+    "industry": "",
+    "oemOdm": "",
+    "website": "https://bullsone.com/",
+    "websites": [
+      "https://bullsone.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1hk9O2aFhySt9N_MwGzfPJz1LD304_y8L&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1hk9O2aFhySt9N_MwGzfPJz1LD304_y8L&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/220-86-07635_1.jpg",
+        "name": "Balanceseat",
+        "description": "- Beta-gel absorbs and disperses body weight concentrated on the hips and lower back (reduces pressure and fatigue).\n- Uses soft, cooling mesh fabric and non-slip materials.\n- Maintains its original comfort and elasticity even after prolonged use.\n- Features air-pumping technology to prevent sweating (air circulates through the honeycomb structure).\n- Washable with water for hygienic use without worrying about contamination (tested for harmful substances by a nationally certified testing agency).",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/220-86-07635_2.jpg",
+        "name": "BalanceOn Seat for Car Plus",
+        "description": "- Helps relieve a driver's lower back stiffness and hip discomfort.\n- Beta-gel's excellent elasticity and resilience disperse pressure caused by body weight.\n- Absorbs and disperses external impacts as well as micro-vibrations from the vehicle's engine and road conditions.\n- Absorbs fatigue-inducing vehicle vibrations.\n- Maintains a comfortable seating experience with sweat-free breathability.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "474-81-01932",
+    "name": "SPBN Corp.",
+    "businessNumber": "474-81-01932",
+    "booth": "C19",
+    "category": "K-Beauty",
+    "subcategory": "Haircare",
+    "industry": "",
+    "oemOdm": "",
+    "website": "www.glanzendes.com / 하반기 오픈예정",
+    "websites": [
+      "www.glanzendes.com / 하반기 오픈예정"
+    ],
+    "catalog": "미제출",
+    "catalogs": [
+      "미제출"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/474-81-01932_1.jpg",
+        "name": "Glänzendes Haar Beer Shampoo (500ML / 1000ML)",
+        "description": "- Ingredient-Proven Food-to-Beauty Concept\nThe brand brings its “Food-to-Beauty” concept to life by using ingredients positioned as safe enough to eat for scalp care, including 100,000 ppm of high-concentration German beer yeast water.\n- Patented Ingredient Complex\nFormulated with patented PhytoCare 11 and a Hyaluronic Acid 6 Complex.\n- Three Clinically Verified Benefits\nVerified through testing conducted by professional clinical institutions for 24-hour volume retention, improvement in split ends, and reduction of scalp flakes.\n- Proven Market Demand\nFeatured a cumulative 20 times across three major Korean home-shopping channels—Korea Public Home Shopping, Home & Shopping, and Hyundai Home Shopping—with additional consumer demand validated through online sales channels. Brand sales increased from KRW 640 million in 2025 to KRW 890 million in the first half of 2026.\n- U.S. Market-Optimized SKU\nTo reflect the U.S. market's preference for larger-size products, the 1,000 mL format is proposed as the flagship SKU.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/474-81-01932_2.jpg",
+        "name": "Glänzendes Onion Hair Save Shampoo ('26.8~9월 출시)",
+        "description": "- A sustainability-focused product using upcycled ingredients (quercetin derived from onion peels) — A line targeting the US clean beauty and sustainability trends.\n- Maintains the same derma scalp care formulation basis as the existing beer shampoo line, offering options based on ingredient preferences.\n- As a newly released product, it provides an opportunity to negotiate initial exclusive distribution rights with local buyers.\n- Domestic launch in August–September 2026 → Will be showcased as a commercially available product at the time of the exhibition (October 2026).",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "606-81-26603",
+    "name": "TYS",
+    "businessNumber": "606-81-26603",
+    "booth": "C20",
+    "category": "K-Lifestyle",
+    "subcategory": "Kitchenware",
+    "industry": "Distributing",
+    "oemOdm": "Available",
+    "website": "https://brand.naver.com/edelkochen?n_media=27758&n_query=%EC%97%90%EB%8D%B8%EC%BD%94%EC%B2%B8&n_rank=1&n_ad_group=grp-a001-04-000000068640430&n_ad=nad-a001-04-000000558133287&n_keyword_id=nkw-a001-04-000008273579737&n_keyword=%EC%97%90%EB%8D%B8%EC%BD%94%EC%B2%B8&n_campaign_type=4&n_contract=tct-a001-04-000000001321043&n_ad_group_type=5&NaPm=ct%3Dmsmj21x0%7Cci%3DER3b0c3fa6%2D9457%2D11f1%2D875c%2D0e1f8c7c65ea%7Ctr%3Dbrnd%7Chk%3D52b13f9be29108b23395c8a5fd05807beb69078b%7Cnacn%3Dvf2rC4BEFOtsB",
+    "websites": [
+      "https://brand.naver.com/edelkochen?n_media=27758&n_query=%EC%97%90%EB%8D%B8%EC%BD%94%EC%B2%B8&n_rank=1&n_ad_group=grp-a001-04-000000068640430&n_ad=nad-a001-04-000000558133287&n_keyword_id=nkw-a001-04-000008273579737&n_keyword=%EC%97%90%EB%8D%B8%EC%BD%94%EC%B2%B8&n_campaign_type=4&n_contract=tct-a001-04-000000001321043&n_ad_group_type=5&NaPm=ct%3Dmsmj21x0%7Cci%3DER3b0c3fa6%2D9457%2D11f1%2D875c%2D0e1f8c7c65ea%7Ctr%3Dbrnd%7Chk%3D52b13f9be29108b23395c8a5fd05807beb69078b%7Cnacn%3Dvf2rC4BEFOtsB"
+    ],
+    "catalog": "https://drive.google.com/open?id=1xRWirAQr3m2PSD_l7b3s5Qw8u-iflMqe&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1xRWirAQr3m2PSD_l7b3s5Qw8u-iflMqe&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/606-81-26603_1.jpg",
+        "name": "Edelkochen 5PLY 316 Stainless Steel Chak Chak Cookware Set with 8 Inch Pan, 3 Quarts Pot, 4 Quarts Pot & Lid",
+        "description": "Made with premium stainless steel grade 316 used in medical instruments in an all-cladded 5PLY composition to provide superior heat retention, exceptional warp resistance and more even heat distribution, this cookware set that consist of 1 pan and 2 pots of different heights to cater to all kinds of cooking. The pots are all nicely stackable for easy storing.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/606-81-26603_2.jpg",
+        "name": "Edelkochen 316 Stainless Steel Korean Spoon & Chopstick Set for 5",
+        "description": "Made with premium stainless steel grade 316 used in medical instruments, this premium quality Korean spoons and chopsticks set ensures cleaniness as it is extremely strong against rust, does not absorb macteria or strong food orders unlike other kinds of materials. They also have a flat profile that keeps them from rolling away on surfaces and offers a firm grip against fingers. Traditional Korean table manners also dictates that the bowl stays flat on the table, making the long handles essential for comfort.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/606-81-26603_3.jpg",
+        "name": "Hammered Handle with Mirror Finish",
+        "description": "Stainless steel food storange container made with 316 grade stainless steel used in medical instruments to ensure it is total rust-free. These containers do not leach harmful chemicals and resist lingering odors or stains. These containers can also be made with 18/10 stainless and dishwasher-safe colors coating if required.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "457-31-01039",
+    "name": "Formod",
+    "businessNumber": "457-31-01039",
+    "booth": "C21",
+    "category": "K-Lifestyle",
+    "subcategory": "Bag",
+    "industry": "",
+    "oemOdm": "",
+    "website": "www.formod.kr",
+    "websites": [
+      "www.formod.kr"
+    ],
+    "catalog": "https://drive.google.com/open?id=1mGlZZPhJTPnoHz6oUe3ils_JdQ9AvUBn&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1mGlZZPhJTPnoHz6oUe3ils_JdQ9AvUBn&usp=drive_copy",
+      "https://drive.google.com/open?id=1lYksDrjH7RYzzqXpP5WTKKKsHd-1mOlc&usp=drive_copy",
+      "https://drive.google.com/open?id=1ZOL4C7MAu9nw_alPY-0OV7WgRbEz5DA2&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/457-31-01039_1.jpg",
+        "name": "FORMOD Nylon Hobo Bag",
+        "description": "Competitive Advantages\n- Patented Three-Compartment Separation System\nMore than a simple divider, this patented structure is designed to prevent moisture and odors from transferring between compartments, keeping food and laptops completely separated within the same bag.\n- Flexible Expandable Design\nBy opening the central partition, one bag can easily transform from a daily bag into a travel bag. This versatility is a key differentiator from conventional insulated bags and backpacks in the U.S. market.\n- Stylish, Versatile Design\nDesigned to look like a stylish everyday bag rather than a typical insulated bag, making it suitable for both office wear and athleisure outfits. It breaks the stereotype that functional products have to look bulky or utilitarian.\n- Premium Materials & Quality Construction\nMade with recycled nylon and featuring water-resistant functionality, YKK zippers, and an ergonomically designed curved bottom for enhanced comfort and durability.\n- Value Proposition\nThree bags in one: a tote bag, a lunch bag, and a gym bag.\n\"You're replacing three bags, not buying a fourth.\"\n- Target Consumers in the U.S.\nNurses and healthcare professionals working 12-hour shifts, Teachers, Pilates and yoga enthusiasts, Working mothers\n- Pricing\nRetail Price in Korea: KRW 188,000 / FOB Price: USD 78 (based on an MOQ of 300 units; negotiable)",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/457-31-01039_2.jpg",
+        "name": "FORMOD Nylon Backpack M",
+        "description": "Competitive Advantages\n- Designed for U.S. Laptop Size Requirements\nFeatures dedicated storage options for 15\", 16\", and 17\" laptops. Developed to accommodate the larger laptop sizes commonly used in the U.S., this is a unique backpack line featuring a dedicated compartment system.\n- Three-Compartment Separation + Insulation + Water Resistance\nIntegrates three separate compartments, thermal insulation, and water-resistant functionality into a backpack design, keeping food, wet workout clothes, and laptops completely separated from one another.\n- Security & Mobility\nFeatures an external RFID-blocking pocket, an anti-theft design, and a luggage strap for convenient attachment to a suitcase.\n- Unisex Design\nDesigned for both men and women, expanding the target market beyond a female-focused customer base to include men, students, and families with children.\n- Sustainability\nMade with recycled nylon and labeled in accordance with verifiable material-content standards.\n- Target Consumers in the U.S.\nOffice commuters, Graduate students, Families with children, Consumers who go directly to the gym after work or school\n- Pricing\nRetail Price in Korea: KRW 198,000 / FOB Price: USD 85 (based on an MOQ of 300 units; negotiable)",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "609-86-27998",
+    "name": "Thecompany U Co., Ltd.",
+    "businessNumber": "609-86-27998",
+    "booth": "C22",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "",
+    "oemOdm": "",
+    "website": "www.nilonica.com",
+    "websites": [
+      "www.nilonica.com"
+    ],
+    "catalog": "https://drive.google.com/open?id=1K41jgbAX0vtgQnd-iP7dqJQUpCW8aqbH&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1K41jgbAX0vtgQnd-iP7dqJQUpCW8aqbH&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/609-86-27998_1.jpg",
+        "name": "NILONICA SHEA 50 INTENSIVE MOISTURIZING CARE BALM",
+        "description": "Organically processed from premium Nile River shea butter to maximize antioxidant benefits, this multi-care balm features a patented formula entirely free of water and preservatives. It delivers rich, natural moisture to any area in need of hydration, including the face, neck, nails, and heels.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/609-86-27998_2.jpg",
+        "name": "NILONICA SHEA 10 BODY BUTTER",
+        "description": "A daily body butter formulated with premium Nilotica shea butter, native exclusively to the Nile River basin in East Africa. With a lightweight and smooth application, it delivers deep hydration and rich nourishment to dry skin all over the body.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "409-87-03563",
+    "name": "Sonoon Korea",
+    "businessNumber": "409-87-03563",
+    "booth": "C23",
+    "category": "K-Beauty",
+    "subcategory": "Professional Beauty Devices",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "WWW.SONOONKOREA.COM",
+    "websites": [
+      "WWW.SONOONKOREA.COM"
+    ],
+    "catalog": "https://drive.google.com/open?id=1nI7zwedU0sjms0oLHho4I7rNDFiLu0Li&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1nI7zwedU0sjms0oLHho4I7rNDFiLu0Li&usp=drive_copy",
+      "https://drive.google.com/open?id=1SfjMJq7kmAkxeX5CBHYpIWySEMNxaHe6&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/409-87-03563_1.jpg",
+        "name": "onx lifting",
+        "description": "ONX Lifting System is a next-generation energy-based aesthetic device developed in the Republic of Korea. Utilizing advanced Microwave Energy Technology, ONX provides a non-invasive solution designed to support skin tightening, lifting, and contouring care. The system delivers controlled and uniform energy to targeted areas, helping improve skin elasticity and enhance facial and body contouring treatments. ONX is designed for versatile applications including the face, neck, and body areas as a premium aesthetic solution.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "394-81-03236",
+    "name": "Lara Clara Inc.",
+    "businessNumber": "394-81-03236",
+    "booth": "C24",
+    "category": "K-Beauty",
+    "subcategory": "Skincare, Makeup",
+    "industry": "",
+    "oemOdm": "",
+    "website": "https://www.laraclara.co.kr",
+    "websites": [
+      "https://www.laraclara.co.kr"
+    ],
+    "catalog": "https://drive.google.com/open?id=1fVSPQyqk7r1X2ReA9uRqLHr6ec_mpqsr&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1fVSPQyqk7r1X2ReA9uRqLHr6ec_mpqsr&usp=drive_copy",
+      "https://drive.google.com/open?id=1b8ntW0B-rg1GSz1ELuRwRO9evUzeriiJ&usp=drive_copy",
+      "https://drive.google.com/open?id=1fQwVtIBPoyi_KFITkA1beOtQadx3ZLMz&usp=drive_copy",
+      "https://drive.google.com/open?id=11brd_B2twZvnOgcdH_sKgjHdVbLYz85k&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/394-81-03236_1.jpg",
+        "name": "LARA CLARA BIO COVER BALM(Pure/Light/Natural Beige/Vienna Caramel)",
+        "description": "- Through fermentation and low-temperature aging processes, harmful ingredients are reduced while beneficial ingredients are enhanced. This BB cushion is suitable for all skin types, including dry, oily, sensitive, atopic, and acne-prone skin.\n- Uses an airless pump container to prevent exposure to air. By keeping the formula from being exposed to air and reducing cross-contamination from the puff, it provides more hygienic use and helps reduce the occurrence of breakouts.\n- An innovative BB cream that lets the skin breathe, offering a comfortable, barely-there feel as if you were not wearing makeup. It also helps protect and soothe the skin, helping shield it from damage caused by external environments and harmful substances.\n- Offers excellent spreadability and pore coverage to create a naturally smooth, flawless-looking complexion, as if you naturally have beautiful skin.\n- A convenient cushion with a 90% repurchase rate that requires no touch-ups, as it does not darken, cake, or slip throughout the day.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/394-81-03236_2.jpg",
+        "name": "LARA CLARA EXO-AG SPICULE PEPTIDE CREAM",
+        "description": "Key Product Features\n- A high-performance functional cream clinically tested for improvements in skin brightening, wrinkle appearance, skin texture, pores, and hydration.\n- Formulated with fermented black garlic and aloe vera-derived exosome ingredients to help support skin regeneration and improve elasticity.\n- Contains spicules and a low-molecular-weight peptide complex to help enhance skin elasticity and provide rapid hydration.\n- Helps brighten and even out skin tone by inhibiting melanin synthesis.\n- Completed a low-irritation test with a score of 0.00.\nRelated Certifications / Compliance\n- CPNP, SCPN, FDA MoCRA\nDomestic and International Distribution History\n- Korea: Hyundai Department Store, Lotte Department Store, AK Plaza, Onnuri Pharmacy, etc.\n- Greece: Lili Drogerie\n- United States: K-Beauty Ave., etc.\nConsumer Response and Recognition\n- Ranked No. 1 in the Anti-Aging Cream category at Glowpick.\n- Has received high consumer satisfaction for its anti-aging benefits and improvements in skin elasticity.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": ""
+      }
+    ]
+  },
+  {
+    "id": "135-81-40947",
+    "name": "Meditime Co., Ltd.",
+    "businessNumber": "135-81-40947",
+    "booth": "D09",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Distributing",
+    "oemOdm": "Unavailable (불가능)",
+    "website": "https://www.meditimekorea.com/",
+    "websites": [
+      "https://www.meditimekorea.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1_q8XPvrjFH1t3d1wv_OTmpGf5Nas8dyz&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1_q8XPvrjFH1t3d1wv_OTmpGf5Nas8dyz&usp=drive_copy",
+      "https://drive.google.com/open?id=1Pc5gH5sVE170gJf4MoyF9DSLT-ZMz03X&usp=drive_copy",
+      "https://drive.google.com/open?id=1yyPeq6-l_H_s_kE9AOSDgO4Twzbmadof&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/135-81-40947_1.jpg",
+        "name": "HISTOLAB",
+        "description": "DERMA SCIENCE is specifically designed for post laser treatment by restoring and providing defense for the skin with HISTO plant stem cells, Kinetin, Niacinamide, Pantenol, and Portulaca Oleracea Extract. It also encourages collagen production, in which new skin cells are rapidly produced and even skin tone is promoted. By protecting skin from stress, UV rays, and oxygen free radicals, the DERMA SCIENCE product line enhances homeostasis and promotes natural looking skin.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=HISTOLAB"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/135-81-40947_2.jpg",
+        "name": "nex-p10+",
+        "description": "Dermal & Epidermal Skin Recovery Support - Using a Scratch Cell Migration Assay to evaluate skin renewal potential, the conditioned medium (CM) formulation demonstrated significantly enhanced dermal and epidermal cell migration activity compared to the untreated control group.\nSupports Dermal Skin Renewal: The formulation demonstrated significantly enhanced dermal cell migration in the test model, resulting in over 50% greater cellular coverage within 24 hours compared to the untreated control, supporting skin renewal activity and overall skin vitality. Enhanced Epidermal Recovery Support: Immediate activation of epidermal cell migration in the test model supported enhanced skin surface coverage, helping promote a smoother, healthier-looking complexion and supporting the appearance of a resilient skin barrier. Advanced Skin Renewal Support: Formulated without artificial chemical stimulants or steroid-based ingredients, the conditioned medium (CM) formulation delivers bioactive factors that support the skin’s natural renewal cycle and overall skin wellness.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=nex-p10+"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/135-81-40947_3.jpg",
+        "name": "nex-p Gold Toning Booster",
+        "description": "1) Micro-Purified Gold (24K Synergy): Enhances microcirculation, facilitates deep transdermal uptake of active. ingredients, and delivers immediate skin luminosity. \n2) Quad-Liposome Brightening Complex: Encapsulated Tranexamic Acid, Glutathione, Niacinamide, and Arbutin. ensuring high stability and deep layer penetration. \n3) Aloe Vera Extracellular Vesicles: Enhances cellular oxygenation, reduces post-treatment inflammation, and accelerates epithelial regeneration. \n4) 7-Fold Multi-Collagen Matrix",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=nex-p+Gold+Toning+Booster"
+      }
+    ]
+  },
+  {
+    "id": "224-81-52914",
+    "name": "DANJOUNGBIO Co., Ltd.",
+    "businessNumber": "224-81-52914",
+    "booth": "D10",
+    "category": "K-Beauty, K-Food",
+    "subcategory": "Skincare, Bodycare, Beverage",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://danjoungbio.com/en/",
+    "websites": [
+      "https://danjoungbio.com/en/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1H3VjaRaa-mul2WykjpcMC__Pj72bY3p-&usp=drive_copy%0D%0Ahttps://drive.google.com/open?id=1Xi7xwj6c2FqetLjMu8pVy3WvVSETrbjl&usp=drive_copy%0D%0Ahttps://drive.google.com/open?id=1GpKinHAPnaZWBylXikFo_csZ6Jn4n0Tu&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1H3VjaRaa-mul2WykjpcMC__Pj72bY3p-&usp=drive_copy%0D%0Ahttps://drive.google.com/open?id=1Xi7xwj6c2FqetLjMu8pVy3WvVSETrbjl&usp=drive_copy%0D%0Ahttps://drive.google.com/open?id=1GpKinHAPnaZWBylXikFo_csZ6Jn4n0Tu&usp=drive_copy",
+      "https://drive.google.com/open?id=1Xi7xwj6c2FqetLjMu8pVy3WvVSETrbjl&usp=drive_copy",
+      "https://drive.google.com/open?id=1GpKinHAPnaZWBylXikFo_csZ6Jn4n0Tu&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_1.jpg",
+        "name": "Darae Is Sweet Darae 100 mL",
+        "description": "This small, precious darae is available as fresh fruit for just 15 days a year, now enjoy its freshness in every season.\nDarae is not a kiwi, it is native Korean darae.\n\"Darae Is Sweet, Darae\"\" is supplied to daycare centers and schools in Korea as part of their meal programs and is safely produced for consumption by all age groups.\nThe product is trusted and supplied to government and public institutions in Korea, including schools, daycare centers, and military meal programs.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Darae+Is+Sweet+Darae+100+mL"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_2.jpg",
+        "name": "Darae Konjac Jelly 120 mL",
+        "description": "Sweet taste, \nDiet-friendly snack, only 5 calories.\nGuilt-free snack.\nThe product is trusted and supplied to government and public institutions in Korea, including schools, daycare centers, and military meal programs.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Darae+Konjac+Jelly+120+mL"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_3.jpg",
+        "name": "YANGDANG SADA 120 mL",
+        "description": "A Healthy Habit in Every Sip.\nMade with 100% Korean fruits and vegetables.\nClean taste, \nA fruit and vegetable drink for a light start to your morning.\nFor those seeking a healthy beverage.\nA drink for those who often miss breakfast.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=YANGDANG+SADA+120+mL"
+      },
+      {
+        "id": "product-04",
+        "imageIndex": 4,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_4.jpg",
+        "name": "WONSENTE 250 mL",
+        "description": "Enjoy it lightly in the morning to start your day feeling refreshed and energized.\nIt can be enjoyed before exercise to feel energized, and after exercise to help replenish vitamins and nutrients.\nPerfect to carry during hiking, camping, or travel to help replenish hydration and energy when you feel tired.\nA convenient choice to enjoy when you’re tired from work or study, helping you feel refreshed and recharged.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=WONSENTE+250+mL"
+      },
+      {
+        "id": "product-05",
+        "imageIndex": 5,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_5.jpg",
+        "name": "Synodia Purple Night Bora Gam-ja Night Cream 50 mL",
+        "description": "Rich anthocyanins from Jayoung Potato (Purple Potato) provide powerful antioxidant and anti-inflammatory effects on the skin.\nSkin tone changes overnight, leaving the skin bright and refreshed in the morning.\nMelatonin helps create an environment for skin recovery overnight.\nA night cream that stays on the skin all night without harmful ingredients, providing peace of mind.\nA patented technology, Soothing Cooler, suppresses heat aging by protecting the skin barrier through heat release during the night, preventing heat-related skin damage.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Synodia+Purple+Night+Bora+Gam-ja+Night+Cream+50+mL"
+      },
+      {
+        "id": "product-06",
+        "imageIndex": 6,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_6.jpg",
+        "name": "Synodia Gangwon Gam-Ja Hand Cream 30 mL",
+        "description": "Electrolyte minerals, vitamins, and starches from potatoes nourish and protect the skin.\nSoft, fluffy texture absorbs quickly without stickiness, maintaining a fresh feel immediately after application.\nForms a moisture barrier on the skin's surface for long-lasting hydration.\nSustainable clean beauty achieved with upcycled ingredients.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Synodia+Gangwon+Gam-Ja+Hand+Cream+30+mL"
+      },
+      {
+        "id": "product-07",
+        "imageIndex": 7,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_7.jpg",
+        "name": "Synodia Ganwon Darae Hand Cream 30 mL",
+        "description": "The rich natural antioxidant power of native Da-rae and the stable Vitamin C functionality of Sodium Ascorbyl Phosphate (SAP) work together.\nA refreshing formula that absorbs without stickiness, adhering smoothly and moistly to the fingertips, perfect for daily hand care.\nFinished with a subtle citrus fragrance for a refreshing touch.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Synodia+Ganwon+Darae+Hand+Cream+30+mL"
+      },
+      {
+        "id": "product-08",
+        "imageIndex": 8,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_8.jpg",
+        "name": "Synodia Dandarae Vita Toner Pad 250 mL / 60 pcs",
+        "description": "Patent ingredients derived from Da-rae soothe the skin, providing antioxidant, anti-inflammatory, and moisturizing effects, acting gently even on sensitive skin.\nExfoliation and skin texture improvement, with real, measurable changes! A truly functional toner pad that goes beyond a simple pad.\nEmbossed side for exfoliation, and a soft side that can be used as a soothing mask.\nWith a large 80π pad size, it’s versatile enough to be used not only on the face but also on the neck and arms, making it a multi-use toner pad.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Synodia+Dandarae+Vita+Toner+Pad+250+mL+/+60+pcs"
+      },
+      {
+        "id": "product-09",
+        "imageIndex": 9,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_9.jpg",
+        "name": "Synodia Gangwon Gam-Ja Bubble Hand Wash 280 mL",
+        "description": "Patent ingredients derived from potato peels soothe skin that has become sensitive due to external stimuli.\nMaintains moisture with a hydrating barrier left by potato extract after cleansing.\nStrong antibacterial power (99.9% reduction of E. coli, Staphylococcus aureus, and Klebsiella pneumoniae).\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Synodia+Gangwon+Gam-Ja+Bubble+Hand+Wash+280+mL"
+      },
+      {
+        "id": "product-10",
+        "imageIndex": 10,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_10.jpg",
+        "name": "Synodia Gangwon Gam-Ja Body Lotion 200 mL",
+        "description": "Electrolyte minerals, vitamins, and starches from Seohong potatoes nourish and protect the skin.\nAbsorbs quickly without stickiness, leaving no marks on clothing and a fresh finish.\nForms a moisture barrier on the skin's surface, maintaining long-lasting hydration.\nAn all-in-one moisturizing care that can be used for the entire body including the face, hands, and dry areas.\nAchieving sustainable clean beauty with upcycled ingredients.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Synodia+Gangwon+Gam-Ja+Body+Lotion+200+mL"
+      },
+      {
+        "id": "product-11",
+        "imageIndex": 11,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/224-81-52914_11.jpg",
+        "name": "Synodia Daily Calming Purple Sun Cream 50 mL",
+        "description": "A perfect dual UV protection system with SPF 50+ and PA++++.\nProtects and soothes the skin with the unique antioxidant power of Jayoung Potato.\nCooling effect that cares for heat aging with the Soothing Cooler patented technology.\nProven skin improvement and user experience with clinical data on pore improvement and skin temperature reduction.\nFinishes with a soft touch and a natural tone-up.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Synodia+Daily+Calming+Purple+Sun+Cream+50+mL"
+      }
+    ]
+  },
+  {
+    "id": "764-46-00397",
+    "name": "DELALUZ Cosmetic Inc.",
+    "businessNumber": "764-46-00397",
+    "booth": "D11",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "http://delaluz.biz/eng/",
+    "websites": [
+      "http://delaluz.biz/eng/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1tsxdncc45sQTk03FnOMUSlxt2XM68HhZ&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1tsxdncc45sQTk03FnOMUSlxt2XM68HhZ&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/764-46-00397_1.jpg",
+        "name": "DELALUZ Facell Skin Lifting Eye Cream",
+        "description": "1) Clinically proven eye-area lifting. 13.23% improvement in firmness after 2 weeks\n2) Wrinkle improvement & skin brightening functional cosmetic\n3) Infused with DELALUZ’s patented firming ingredient\nFrom fermented Gold Hibiscus.\n4) 5-Peptide complex & ginseng stem cells\nFor visible firmness support.\n5) Hypoallergenic tested for sensitive skin",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=DELALUZ+Facell+Skin+Lifting+Eye+Cream"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/764-46-00397_2.jpg",
+        "name": "DELALUZ Facell Skin Lifting Ampule",
+        "description": "1) Clinically proven wrinkle reduction. 28% improvement in wrinkles after 2 weeks (Quadruple wrinkle improvement test)\n2) Formulated with DELALUZ’s patented firming ingredient Derived from fermented Gold Hibiscus.\n3) 5-Peptide complex & Edelweiss stem cells. Designed for synergistic elasticity support.\n4) Targeted firming ampoule aligned with skin turnover cycle\n5) Lightweight, fast-absorbing texture",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=DELALUZ+Facell+Skin+Lifting+Ampule"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/764-46-00397_3.jpg",
+        "name": "DELALUZ Glutathione Toner",
+        "description": "1) Clinically proven skin brightness improvement\n2) 24-hour hydration clinically tested\n3) Contains DELALUZ patented Glutathione ingredient\n4) Powered by Hyaluronic Acid & Snail Secretion Filtrate\n5) Hypoallergenic tested for skin safety",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=DELALUZ+Glutathione+Toner"
+      },
+      {
+        "id": "product-04",
+        "imageIndex": 4,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/764-46-00397_4.jpg",
+        "name": "DELALUZ Biolance Waterfull Cleansing Pack",
+        "description": "1) Mildly acidic formula maintaining skin balance\n2) Enriched with 3 skin probiotics (Lactobacillus, Lactococcus, Bifida)\n3) Soothing Aloe Vera & Calamine for sensitive skin\n4) Naturally derived surfactants for gentle cleansing\n5) Hydrating finish after cleansing\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=DELALUZ+Biolance+Waterfull+Cleansing+Pack"
+      }
+    ]
+  },
+  {
+    "id": "305-81-82022",
+    "name": "HuonsN Co., Ltd.",
+    "businessNumber": "305-81-82022",
+    "booth": "D12",
+    "category": "K-Food",
+    "subcategory": "Beverage, Healthcare",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://huons-n.com/layout/eng/home.php?go=main",
+    "websites": [
+      "https://huons-n.com/layout/eng/home.php?go=main"
+    ],
+    "catalog": "https://drive.google.com/open?id=1iCKITc4MVGjJsv8EChnqRZueJPj8IXDB&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1iCKITc4MVGjJsv8EChnqRZueJPj8IXDB&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/305-81-82022_1.jpg",
+        "name": "Innerset collagen konjac jelly",
+        "description": "A konjac jelly infused with 1,000mg of low-molecular fish collagen, plus vitamin and hyaluronic acid. Available in five refreshing fruit flavors—apple, mango, green grape, peach, and strawberry—this light and convenient beauty snack lets you enjoy inner beauty anytime, anywhere.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Innerset+collagen+konjac+jelly"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/305-81-82022_2.jpg",
+        "name": "Menolacto Premium",
+        "description": "As Korea’s first and only menopause-specific probiotic, this premium formula provides a comprehensive solution for middle-aged women by combining five key functionalities: menopausal health, antioxidant support, energy boost, bone health, and digestive wellness in a single daily capsule. Featuring internationally patented technology, the live strains are protected by acid-resistant enteric coating and vegan-friendly plant-based capsules to ensure safe delivery to the gut, all while maintaining maximum potency through a 100% cold-chain refrigeration delivery system from our door to yours.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Menolacto+Premium"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/305-81-82022_3.jpg",
+        "name": "Honeybush skin solution",
+        "description": "Restore your skin’s elasticity from within with Honeybush Skin Solution! \nWith patented technology and functional ingredients, it helps care for UV damage, hydration, wrinkles, and firmness all at once.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Honeybush+skin+solution"
+      }
+    ]
+  },
+  {
+    "id": "739-86-02546",
+    "name": "KUBER SCIENCE Co., Ltd.",
+    "businessNumber": "739-86-02546",
+    "booth": "D13",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://kuberscience.com/",
+    "websites": [
+      "https://kuberscience.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1Q9umqDyN3ibFytpXZWx2WrGlH5-8pxr5&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1Q9umqDyN3ibFytpXZWx2WrGlH5-8pxr5&usp=drive_copy",
+      "https://drive.google.com/open?id=1fb9RWXKTMUPHvQo95VamQiBQnrsvRusI&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/739-86-02546_1.jpg",
+        "name": "CELLDAM LAB EXO-Marine Solution",
+        "description": "5 Billion Marine Exosomes for Deep Recovery Hydration\nMarine-derived exosomes deliver concentrated vitality to deeply hydrate and revitalize stressed skin.\nDeep Hydration & Moisture Retention\nReplenishes moisture for long-lasting hydration and a smooth, supple complexion.\nSoothing & Barrier Strengthening\nHelps calm irritation while reinforcing the skin’s protective barrier.\nRefreshing Recovery for Tired Skin\nRevives fatigued skin with lightweight yet intensive moisture care.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=CELLDAM+LAB+EXO-Marine+Solution"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/739-86-02546_2.jpg",
+        "name": "CELLDAM AHA Peeling",
+        "description": "7% D-Panthenol for Intensive Barrier Repair\nPowered by high-concentration D-Panthenol to help restore weakened skin and reinforce the skin barrier.\nImmediate Soothing for Redness & Irritation\nQuickly calms redness, sensitivity, and discomfort caused by environmental stress or external irritation.\nBarrier Recovery & Protection\nHelps rebuild the skin’s protective barrier to reduce moisture loss and improve resilience.\nDeep Hydration with Moisture Lock\nInfused with 8 types of hyaluronic acid to draw moisture deep into the skin, while 7% D-Panthenol creates a protective moisture shield to keep skin hydrated, soft, and comfortable all day.\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=CELLDAM+AHA+Peeling"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/739-86-02546_3.jpg",
+        "name": "CELLDAM LAB Re-PDRN",
+        "description": "Dual PDRN Regeneration System\nPowered by a blend of 1% Salmon PDRN and 0.5% Rose PDRN Solution, it delivers intensive regenerative energy to care for weakened and damaged skin.\nSkin Repair & Recovery\nHelps restore stressed skin and supports recovery from external aggressors and daily irritation.\nFirming & Elasticity Recovery\nImproves skin resilience while supporting collagen and elastin production.\nSoothing & Barrier Reinforcement\nCalms sensitive skin and helps strengthen the skin’s natural protective barrier.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=CELLDAM+LAB+Re-PDRN"
+      }
+    ]
+  },
+  {
+    "id": "130-81-71940",
+    "name": "Daeyang Medical Co., Ltd.",
+    "businessNumber": "130-81-71940",
+    "booth": "D14",
+    "category": "K-Beauty",
+    "subcategory": "Skincare",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://daeyangmed.com/",
+    "websites": [
+      "https://daeyangmed.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1HhwjRftmTBX3izi6mJDVzfppnODvG3zd&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1HhwjRftmTBX3izi6mJDVzfppnODvG3zd&usp=drive_copy",
+      "https://drive.google.com/open?id=1rHZMbEN1_o6OSm3zjd8jp-7LdUAlg1oQ&usp=drive_copy",
+      "https://drive.google.com/open?id=1g1JNJRpZzhHypj2gQQioPWVUB_q8tpU1&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_1.jpg",
+        "name": "BLESKIN EXXO SB-1 TONER 3.38 FL. OZ.",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• EXOSOME + PDRN RECOVERY CARE\nPowered by BLESKIN EXXO’s Exosome + PDRN technology to help restore balance and improve the appearance of stressed, tired-looking skin.\n• SOOTHING & HYDRATING FORMULA\nFormulated with Centella Asiatica, Panthenol, Allantoin, and moisturizing ingredients to help calm, hydrate, and soften the skin after cleansing.\n• PREPARES SKIN FOR THE NEXT STEP\nIts lightweight, refreshing texture helps condition the skin and prepares it for ampoules, serums, and creams.\n• CLINICALLY TESTED PERFORMANCE\nDemonstrated a 53.94% improvement in total skin recovery after 2 weeks in a clinical study involving 21 subjects.*\n• DAILY CARE FOR ALL SKIN TYPES\nSuitable for daily morning and evening use, including dry, sensitive, and stressed-looking skin.\n*Results are based on a 2-week clinical study involving 21 subjects. Individual results may vary.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+SB-1+TONER+3.38+FL.+OZ."
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_2.jpg",
+        "name": "BLESKIN EXXO SB-2D AMPOULE 1.69 FL. OZ.",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• EXOSOME + PDRN RADIANCE CARE\nPowered by 0.5% Lactobacillus Extracellular Vesicles and 0.5% PDRN-derived Sodium DNA to help revitalize dull, tired-looking skin and support a healthier-looking complexion.\n• BRIGHTENING DAY AMPOULE\nFormulated with 3% Niacinamide, 1% Tranexamic Acid, and Glutathione to improve the appearance of uneven skin tone, dullness, and dark spots.\n• FERMENTED SKIN-CONDITIONING COMPLEX\nLactobacillus, Bifida, Saccharomyces, and Galactomyces Ferment Filtrates help condition the skin and maintain a smooth, balanced appearance.\n• LIGHTWEIGHT HYDRATION\nGlycerin and Sodium Hyaluronate deliver comfortable moisture without heaviness, leaving the skin soft, fresh, and radiant.\n• IDEAL FOR DAILY MORNING CARE\nA lightweight ampoule designed for daily use to enhance skin clarity and radiance while preparing the skin for moisturizer and sunscreen.",
+        "certs": [
+          "FDA, Halal"
+        ],
+        "certificationText": "FDA, Halal",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+SB-2D+AMPOULE+1.69+FL.+OZ."
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_3.jpg",
+        "name": "BLESKIN EXXO SB-2N AMPOULE 1.69 FL. OZ.",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• 0.5% EXOSOME + 0.1% PDRN NIGHT RECOVERY CARE\nPowered by 0.5% Lactobacillus Extracellular Vesicles and 0.1% PDRN-derived Sodium DNA to help revitalize tired-looking skin and support overnight skin recovery.\n• FIRMING & WRINKLE CARE\nFormulated with 2% Niacinamide and Adenosine to help improve the appearance of fine lines, loss of elasticity, dullness, and uneven-looking skin tone.\n• MULTI-LEVEL HYDRATION\nA blend of Hyaluronic Acid ingredients, Glycerin, Glycosyl Trehalose, and Hydrogenated Starch Hydrolysate delivers lasting moisture and helps keep the skin smooth and supple.\n• FERMENTED SKIN-CONDITIONING COMPLEX\nLactobacillus, Bifida, Saccharomyces, and Galactomyces Ferment Filtrates help condition the skin and support a healthy, balanced-looking complexion.\n• IDEAL FOR EVENING SKINCARE\nIts moisture-rich yet comfortable texture helps replenish dry, stressed-looking skin overnight for a softer, smoother, and more refreshed appearance by morning.",
+        "certs": [
+          "FDA, Halal"
+        ],
+        "certificationText": "FDA, Halal",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+SB-2N+AMPOULE+1.69+FL.+OZ."
+      },
+      {
+        "id": "product-04",
+        "imageIndex": 4,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_4.jpg",
+        "name": "BLESKIN EXXO SB-3 CREAM 1.69 FL. OZ.",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• 1% EXOSOME + 0.5% PDRN BARRIER CARE\nPowered by 1% Lactobacillus Extracellular Vesicles and 0.5% PDRN-derived Sodium DNA to help revitalize stressed-looking skin and support a healthier skin barrier.\n• MOISTURE-RICH NOURISHING CREAM\nA blend of Squalane, Olive Oil, Caprylic/Capric Triglyceride, and plant-derived emollients helps replenish moisture and leave the skin soft, smooth, and comfortable.\n• BRIGHTENING & WRINKLE CARE\nFormulated with 3% Niacinamide and Adenosine to help improve the appearance of dullness, uneven skin tone, fine lines, and loss of elasticity.\n• LACTOBARRIER COMPLEX\nLactobacillus Ferment Filtrate, Ceramide NP, Ectoin, Sodium Hyaluronate, and lipid-based moisturizing ingredients help strengthen the skin’s moisture barrier and reduce dryness.\n• DAILY MOISTURE-SEALING STEP\nIts rich yet comfortable texture seals in hydration and completes the skincare routine without leaving the skin feeling excessively heavy.",
+        "certs": [
+          "FDA, Halal"
+        ],
+        "certificationText": "FDA, Halal",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+SB-3+CREAM+1.69+FL.+OZ."
+      },
+      {
+        "id": "product-05",
+        "imageIndex": 5,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_5.jpg",
+        "name": "BLESKIN EXXO SB SOOTHING GEL MASK, 5 SHEETS, 38 g / 1.34 OZ. EACH",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• 0.1% EXOSOME + 0.1% PDRN SOOTHING CARE\nPowered by 0.1% Lactobacillus Extracellular Vesicles and 0.1% PDRN-derived Sodium DNA to help revitalize and comfort stressed-looking skin.\n• INTENSIVE HYDRATING GEL MASK\nA moisture-rich gel essence with Glycerin, Butylene Glycol, Schizophyllan, and Sodium Hyaluronate helps replenish hydration and leave the skin smooth and refreshed.\n• BRIGHTENING & WRINKLE CARE\nFormulated with 2% Niacinamide and Adenosine to help improve the appearance of dullness, uneven skin tone, and fine lines.\n• CICA + ECTOIN CALMING COMPLEX\nMadecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, and Ectoin help soothe dry, sensitive, and environmentally stressed-looking skin.\n• MARINE BOTANICAL CONDITIONING\nSeaweed extracts, including Undaria Pinnatifida, Hizikia Fusiforme, and Laminaria Japonica, help condition the skin and support a soft, healthy-looking complexion.",
+        "certs": [
+          "FDA, Halal"
+        ],
+        "certificationText": "FDA, Halal",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+SB+SOOTHING+GEL+MASK,+5+SHEETS,+38+g+/+1.34+OZ.+EACH"
+      },
+      {
+        "id": "product-06",
+        "imageIndex": 6,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_6.jpg",
+        "name": "BLESKIN EXXO PDRN+ LIFTING SHOT & SHINING SHOT AMPOULE SET, 5 mL / 0.17 FL. OZ. EACH",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• HIGH-CONCENTRATION 7.5% PDRN CARE\nFormulated with 75,000 ppm PDRN-derived Sodium DNA to help revitalize tired-looking skin and improve the appearance of firmness, elasticity, and fine lines.\n• INTENSIVE BRIGHTENING FORMULA\nContains 4% Niacinamide and 2% Tranexamic Acid to help improve the appearance of dullness, dark spots, and uneven-looking skin tone.\n• DENSE, CONCENTRATED AMPOULE TEXTURE\nIts unique, rich texture delivers concentrated skincare ingredients and absorbs comfortably into the skin without excessive heaviness.\n• RADIANCE & ELASTICITY SUPPORT\nDesigned to restore a brighter, smoother, and more resilient-looking complexion while providing intensive care for areas of visible skin concern.\n• PROFESSIONAL-INSPIRED HOMECARE\nA high-performance ampoule set suitable for intensive daily care or use as part of a premium, treatment-inspired skincare routine.",
+        "certs": [
+          "FDA, Halal"
+        ],
+        "certificationText": "FDA, Halal",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+PDRN++LIFTING+SHOT+&+SHINING+SHOT+AMPOULE+SET,+5+mL+/+0.17+FL.+OZ.+EACH"
+      },
+      {
+        "id": "product-07",
+        "imageIndex": 7,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_7.jpg",
+        "name": "BLESKIN EXXO PDRN+ PEPTIDE LIFTING SHOT AMPOULE 0.17 FL. OZ.",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• 75,000 PPM PDRN INTENSIVE CARE\nFormulated with 7.5% PDRN-derived Sodium DNA to help revitalize tired-looking skin and support a firmer, smoother, and more resilient-looking complexion.\n• MULTI-PEPTIDE LIFTING COMPLEX\nA blend of Acetyl Hexapeptide-8 and multiple oligopeptides and polypeptides helps improve the appearance of fine lines, reduced firmness, and uneven skin texture.\n• PROFESSIONAL AESTHETIC-INSPIRED CARE\nHigh-concentration PDRN ampoules are gaining increasing attention among dermatology clinics, physicians, and medical aesthetic professionals for premium firming and revitalizing care.\n• RECOMMENDED FOR VISIBLE SIGNS OF AGING\nIdeal for mature, dry, or tired-looking skin concerned with fine lines, loss of elasticity, rough texture, and reduced facial firmness.",
+        "certs": [
+          "FDA, Halal"
+        ],
+        "certificationText": "FDA, Halal",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+PDRN++PEPTIDE+LIFTING+SHOT+AMPOULE+0.17+FL.+OZ."
+      },
+      {
+        "id": "product-08",
+        "imageIndex": 8,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/130-81-71940_8.jpg",
+        "name": "BLESKIN EXXO PDRN+ TRANEXAMIC SHINING SHOT AMPOULE 0.17 FL. OZ.",
+        "description": "• DEVELOPED FOR CLINIC-BASED HOMECARE\nCreated as a premium homecare line to complement dermatology and aesthetic clinic treatments, BLESKIN EXXO helps clinics extend client care, encourage repeat purchases, and build additional retail revenue.\n• 75,000 PPM PDRN RADIANCE CARE\nFormulated with 7.5% PDRN-derived Sodium DNA to help revitalize dull, tired-looking skin and support a smoother, healthier-looking complexion.\n• MULTI-BRIGHTENING COMPLEX\nCombines 4% Niacinamide, 2% Tranexamic Acid, 0.5% Ascorbyl Glucoside, Glutathione, and botanical extracts to help improve the appearance of dark spots, uneven skin tone, and loss of radiance.\n• PROFESSIONAL AESTHETIC-INSPIRED CARE\nHigh-concentration PDRN and targeted brightening ingredients are gaining increasing attention among dermatology clinics, physicians, and medical aesthetic professionals seeking premium tone-correcting and revitalizing care.\n• RECOMMENDED FOR DULL & UNEVEN-LOOKING SKIN\nIdeal for those concerned with visible pigmentation, dark spots, post-blemish marks, uneven tone, or a tired-looking complexion, helping skin appear clearer, brighter, and more luminous.\nNet Volume: 5 mL / 0.17 FL. OZ.",
+        "certs": [
+          "FDA, Halal"
+        ],
+        "certificationText": "FDA, Halal",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=BLESKIN+EXXO+PDRN++TRANEXAMIC+SHINING+SHOT+AMPOULE+0.17+FL.+OZ."
+      }
+    ]
+  },
+  {
+    "id": "301-86-34692",
+    "name": "EVERBIO Co., Ltd.",
+    "businessNumber": "301-86-34692",
+    "booth": "C15",
+    "category": "K-Beauty",
+    "subcategory": "Beauty Accessories",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://kkonglash.com/",
+    "websites": [
+      "https://kkonglash.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1wXM2A0MQmEjHYkCDiLnV05y6ZoccBDtW",
+    "catalogs": [
+      "https://drive.google.com/open?id=1wXM2A0MQmEjHYkCDiLnV05y6ZoccBDtW"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/301-86-34692_1.jpg",
+        "name": "KKONGLASH NOGLUE False Eyelashes",
+        "description": "KKONGLASH NOGLUE False Eyelashes",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=KKONGLASH+NOGLUE+False+Eyelashes"
+      }
+    ]
+  },
+  {
+    "id": "312-86-01420",
+    "name": "THREE SEVEN CORPORATION",
+    "businessNumber": "312-86-01420",
+    "booth": "D17",
+    "category": "K-Beauty",
+    "subcategory": "Beauty Accessories",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://www.doyouknow777.com/",
+    "websites": [
+      "https://www.doyouknow777.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1cprHaUFvvrzcgQza3UGnc6BM92ppwOGe&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1cprHaUFvvrzcgQza3UGnc6BM92ppwOGe&usp=drive_copy",
+      "https://drive.google.com/open?id=1Rr8ZU1dSzy5Iv_oxVGTn8U_j_ZJ9EInh&usp=drive_copy",
+      "https://drive.google.com/open?id=1feYOC4g7XPOyX9JRwi3nhEGnIyYWaBl1&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-86-01420_1.jpg",
+        "name": "NAIL CLIPPER",
+        "description": "With Korean materials and our master skill, our nail clipper features high durability and sharp blade to provide a clean cut every time. Whether you're at home or on the go, it will be the ideal partner for caring your nail.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=NAIL+CLIPPER"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-86-01420_2.jpg",
+        "name": "MANICURE SET (OR NAIL CARE KIT)",
+        "description": "How about caring nails with our manicure sets? From nail clippers to cuticle trimmer, our products have everything you need. With various options of size, case, tools inside, whatever your need is, they will meet.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=MANICURE+SET+(OR+NAIL+CARE+KIT)"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-86-01420_3.jpg",
+        "name": "EYELASH CURLER",
+        "description": "We hereby introduce our premium, Korean-made eyelash curler, crafted under our strict quality control (QC). Engineered with superior manufacturing technology, this durable product is already trusted and imported by famous global buyers. Its intuitive, easy-to-use design ensures maximum satisfaction for customers worldwide.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=EYELASH+CURLER"
+      }
+    ]
+  },
+  {
+    "id": "247-86-01655",
+    "name": "Poled Co., Ltd.",
+    "businessNumber": "247-86-01655",
+    "booth": "D18",
+    "category": "K-Lifestyle",
+    "subcategory": "Baby Products",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://www.poled.kr/main/html.php?htmid=poled/global_main.html",
+    "websites": [
+      "https://www.poled.kr/main/html.php?htmid=poled/global_main.html"
+    ],
+    "catalog": "https://drive.google.com/open?id=1fm57AP4OUBHT-w6d3Z5mDevMs8kwL6f5&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1fm57AP4OUBHT-w6d3Z5mDevMs8kwL6f5&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/247-86-01655_1.jpg",
+        "name": "Poled Airluv5 Baby Air Ventilating Cooling Seat Liner for Stroller&Carseat",
+        "description": "[POLED AIRLUV5]\nAirluv is an infant airventilating cooling seat that uses a fabric material specially developed by our in-house R&D department and a dedicated fan attached to the bottom of the seat. It keeps your child’s back—which is prone to heat rash and eczema in hot and humid weather—cool and comfortable. \n1) Wide range of product options: Three types in total—Basic (Donut), Standard (Lollipop), and Premium (Macaron).\n- Standard (Lollipop) Key Features: Equipped with an air-purifying fan and HEPA filter / Waterproof footrest.\n- Premium (Macaron) Key Features: Premium silicone fabric minimizes skin irritation for infants / Cooling effect / Splash-proof and stain-resistant. \n2) Safety testing completed as part of the new European car seat certification ECE R129 i-Size testing / Winner of the 2025 iF Design Award.\n3) Ergonomic air vent design provides optimal airflow to specific areas.\n4) Dedicated fan developed in-house via R&D: Low-noise design / Grill attached to the rear bottom of the product to prevent accident risks.\n5) Diamond-mesh fabric cooling seat provides excellent breathability / Ultra-powerful mode adjustable up to 4 levels / Anti-slip design with fixed leg openings at the bottom / Superior stability with a 3-point fastening system.\n6) Offers broad compatibility not only with infant car seats but also with bouncers, T-bars and strollers universally.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Poled+Airluv5+Baby+Air+Ventilating+Cooling+Seat+Liner+for+Stroller&Carseat"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/247-86-01655_2.jpg",
+        "name": "Frankliin Baby Wash / Bareul Baby Skin Care",
+        "description": "[FRANKLIIN BABY WASH]\nFrankliin thoroughly excludes unnecessary marketing ingredients (such as extracts, fragrances, and dyes) easily in chemical products like cosmetics, detergents, and cleansers, developing products with only the minimum necessary active ingredients. Through this approach, the brand minimizes skin irritation and has earned consumer trust as an “honest brand” that transparently discloses all ingredients. Frankliin line-up includes Baby Wash (Baby Bottom Cleanser, Bath & Shampoo, Hand Wash), Kitchen Detergent (Baby Bottle Cleanser), Baby Laundry Detergent, and Fabric Softener.\nFrankliin’s Baby Bottle Cleanser is a vegan-certified product containing naturally derived surfactants ; all ingredients are EWG Green-rated, making it safe for use as a fruit and vegetable wash. By including only the essential ingredients necessary for cleaning, the brand has created a stable, highly concentrated liquid formula that produces a rich lather and delivers powerful cleasing with just one pump. It contains the plant-derived moisturizing ingredient erythritol to keep your hands soft and hydrated.\n[BAREUL BABY SKIN CARE]\nBAREUL, a brand in the baby skincare category, offers safe skincare products that the whole family can use with confidence, embodying the dual meanings of “to apply” and “to be right.” All products meet the ingredient standards of over 20 organizations, including the EWG. it's setting the standard for the safest infant and toddler skincare. Main Products line up is include baby lotion, soothing gel, moisturizing cream, cleansing water, oil, and sunscreen.\nPoled Bareul is highly moisturizing cream is a deeply hydrating infant cream formulated with moisturizing power suited for baby’s skin and safe, essential ingredients that ensure high absorption. Babies’ skin has a weak barrier that can easily break down even with minor irritation. This compromised barrier leads to moisture loss and dryness, and leaves the skin vulnerable to bacteria and viruses from the outside, causing itching and rashes. Strong moisturizing is due to a high concentration of 5,000 ppm panthenol, this moisturizing cream features a “melting formula” that reacts to body heat the moment it touches the skin, melting away and absorbing gently without any stickiness, making it suitable for use as an all-in-one face and body cream. Its creamy texture delivers moisture deep into the skin, helping to maintain the skin’s oil-moisture balance.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Frankliin+Baby+Wash+/+Bareul+Baby+Skin+Care"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/247-86-01655_3.jpg",
+        "name": "UV Sterilizer",
+        "description": "[PIXEL UV Sterilizer - Wide Type]\nㅡ A baby feeding bottle sterilizer featuring a custom design that allows to choose freely according to your preferences. \nㅡ Utilizing UVC LED, it provides thorough sterilization without any blind spots, ensuring bottles stay exceptionally clean \nㅡ With various options to select drying modes, you can maximize convenience effective sterilization \nㅡ Available in diverse customizing options and Multiple color choices to match interior in your place \nㅡ Utilizing both upper and lower space with the exclusive shelf and experiencing User-Friendly Features such as front-opening wide door and Internal lighting for convenient use at night timeupang (UV Sterilizer)\n[UPANG UV Sterilizer - Stand Type] \nㅡ A powerful and efficient UV LED Sterilizer, which kills 99.999% of the harmful bacteria in 10 minutes with powerful and patented rotating UV LED.\nㅡ With 6 specialized features and various drying mode, you can sterilize almost anything such as soft toys, teether, remotes, toothbrush, and even your cellphones\nㅡ UPANG can be utilized even in food court, hotel room, golf course, nail salon or animal hospital\nㅡ With 28L Spacious Interior and , UPANG can sterilize and stores up to 32 bottles and even feeding accessories\nㅡ Globally Recognized Sterilization Power : Available in over 20 countries, including the USA, UK, China, and Japan. Even obtaining US FDA medical device registration",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=UV+Sterilizer"
+      }
+    ]
+  },
+  {
+    "id": "312-81-40748",
+    "name": "Aroma Newtech Co., Ltd.",
+    "businessNumber": "312-81-40748",
+    "booth": "D19",
+    "category": "K-Beauty",
+    "subcategory": "Skincare, Bodycare",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "http://www.aromanewtech.com/eng/",
+    "websites": [
+      "http://www.aromanewtech.com/eng/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1vZ34TOLgHdq05ytLo0kC4Ua2q6CCRWCg&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1vZ34TOLgHdq05ytLo0kC4Ua2q6CCRWCg&usp=drive_copy",
+      "https://drive.google.com/open?id=1ZQa7mVGbgEVNT1vKuUUA25zCe4Su2kzJ&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-40748_1.jpg",
+        "name": "Needon Sanil line",
+        "description": "This elasticity-boosting essence improves firmness, wrinkle depth, and texture. Infused with concentrated Snail Secretion Filtrate and Low-Molecular Collagen, it absorbs rapidly to rebuild elasticity. The patented Vigna Angularis Seedcoat Extract delivers strong antioxidant protection, melanin control, and barrier reinforcement. With CNF nano-cellulose delivery technology, it ensures deep, non-sticky absorption. Clinically tested for low irritation, suitable for daily use and sensitive skin.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Needon+Sanil+line"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-40748_2.jpg",
+        "name": "SPASSOM",
+        "description": "SPASSOM’s Magic Jelly – a two-step care system that removes impurities and replenishes moisture for hands and feet.SPASSOM Magic Jelly Spa is a jelly-type spa product designed for hands and feet. When mixed with warm water, the special jelly formula retains heat for longer, delivering a soothing, hot spring-like experience right at home.",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=SPASSOM"
+      }
+    ]
+  },
+  {
+    "id": "312-81-06997",
+    "name": "AJ Co., Ltd.",
+    "businessNumber": "312-81-06997",
+    "booth": "D20",
+    "category": "K-Beauty",
+    "subcategory": "Baby Products",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://ajcc.co.kr/en/",
+    "websites": [
+      "https://ajcc.co.kr/en/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1phu-NP8lmTasTbVfmKVbfTid-wuwIEn9&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1phu-NP8lmTasTbVfmKVbfTid-wuwIEn9&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-06997_1.jpg",
+        "name": "Bebesup Babywipes Signature K-Heritage Black (66count)",
+        "description": "- Korea’s #1 baby wipes for 10 consecutive years\n- Premium high-end baby wipes (85gsm)\n- 99% Purified Water\n- Dermatologist-tested\n- 0.00 skin irritation index (hypoallergenic)\n- Infused with Rice Ceramide for skin health\n- 4X Denser Embossing\n- 100% EWG Green-grade ingredients\n- Free of 11 harmful ingredients & synthetic fragrances\n- Microplastic-free",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Bebesup+Babywipes+Signature+K-Heritage+Black+(66count)"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-06997_2.jpg",
+        "name": "Bebesup Babywipes Signature Blue (70counts)",
+        "description": "- Korea’s #1 baby wipes for 10 consecutive years\n- Premium baby wipes (75gsm)\n- 99% Purified Water\n- Dermatologist-tested\n- 0.00 skin irritation index (hypoallergenic)\n- Deeply moisturizing with our signature \"\"Seed Formula\"\"\n- Premium 3D embossed fabric\n- 100% EWG Green-grade ingredients\n- pH-balanced for healthy skin\n- Free of 11 harmful ingredients & synthetic fragrances\n- Microplastic-free\"",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Bebesup+Babywipes+Signature+Blue+(70counts)"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-06997_3.jpg",
+        "name": "Bebesup Babywipes Sensitive (80count)",
+        "description": "- Korea’s #1 baby wipes for 10 consecutive years\n- Premium baby wipes (65gsm)\n- 99% Purified Water\n- Dermatologist-tested\n- 0.00 skin irritation index (hypoallergenic)\n- Deeply moisturizing with a Triple Superfood Formula\n- Premium 3D embossed fabric\n- 100% EWG Green-grade ingredients\n- pH-balanced for healthy skin\n- Free of 11 harmful ingredients & synthetic fragrances",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Bebesup+Babywipes+Sensitive+(80count)"
+      },
+      {
+        "id": "product-04",
+        "imageIndex": 4,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-06997_4.jpg",
+        "name": "Bebesup Soothing & Moisture Lotion (300ml / 10.1 fl oz), Bebesup Soothing Intensive Cream (200ml / 6.76 fl oz)",
+        "description": "1) Cream\n- Intense hydration with 10,000ppm Ceramide Capsules\n- 100-hour long-lasting ceramide capsule cream\n- Formulated with our proprietary \"\"Rice Cerabiome\"\"\n- Dermatest-certified (Excellent) for atopic-prone skin\n- Free from 14 controversial ingredients\n- 100% EWG Green-grade formulation\n2) Lotion\n- Fast-absorbing: hydrates skin in 5 seconds with\n a 640% boost in moisture\n- 100-hour moisture retention\n- Infused with 10,000ppm of our proprietary \n3) Rice Cerabiome\n- Dermatest-certified (Excellent) for atopic-prone skin\n- Free from 14 controversial ingredients\n- 100% EWG Green-grade formulation",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Bebesup+Soothing+&+Moisture+Lotion+(300ml+/+10.1+fl+oz),+Bebesup+Soothing+Intensive+Cream+(200ml+/+6.76+fl+oz)"
+      },
+      {
+        "id": "product-05",
+        "imageIndex": 5,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-06997_5.jpg",
+        "name": "Bebesup Face Towel 50 count",
+        "description": "- 100% plant-based fabric\n- Lint-free embossed texture\n- Convenient and hygienic for everyday use\n- Exceptional absorbency and durability \n (75gsm / 9.8\"\" x 11.8\"\")\n- Dermatologist-tested\n- Free of harmful substances (No fluorescent whitening \n agents, formaldehyde, or antimony)\n- Hypoallergenic (Skin irritation tested)\n- 100% Plastic-free",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Bebesup+Face+Towel+50+count"
+      }
+    ]
+  },
+  {
+    "id": "301-86-27833",
+    "name": "JUAN FOOD Co., Ltd.",
+    "businessNumber": "301-86-27833",
+    "booth": "D21",
+    "category": "K-Food",
+    "subcategory": "Ready-to-Eat Foods",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "http://www.juanfood.co.kr/",
+    "websites": [
+      "http://www.juanfood.co.kr/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1v8xj_pTQP2Q_0jQ3sNeMr0Q0mQla4RN4&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1v8xj_pTQP2Q_0jQ3sNeMr0Q0mQla4RN4&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/301-86-27833_1.jpg",
+        "name": "KOREAN NOODLE SOUP WITH CLAMS",
+        "description": "* One of the famous Korea Traditional Foods\n* Korean Noodle Soup with Clams\n* Soft and Chewy Texture\n* Meal Kit (Enjoy cooking with your family together)\n* Keep frozen under 18℃\nWarm up with a comforting bowl of authentic Korean knife-cut noodles. Freshly made noodles, rich savory broth, and a taste that feels like home. Come enjoy a bowl of Kalguksu today!",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=KOREAN+NOODLE+SOUP+WITH+CLAMS"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/301-86-27833_2.jpg",
+        "name": "HAND-PULLED DOUGH SOUP",
+        "description": "* One of the famous Korea Traditional Foods\n* Korean Noodle Soup with Clams\n* Soft and Chewy Texture\n* Meal Kit (very unique experience with family)\n* Keep frozen under 18℃\nCraving something warm and comforting? Try our authentic Korean Sujebi—soft, hand-torn dough simmered in a rich, flavorful broth. One bowl, and you'll understand why it's a beloved Korean comfort food!",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=HAND-PULLED+DOUGH+SOUP"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/301-86-27833_3.jpg",
+        "name": "Vegan dumpling",
+        "description": "* Premium Korean Vegan Dumplings\n* 4 kinds of flavors: Original Vegetable, Vegetable & Kimchi, Vegetable & Mushroom, and Vegetable & Japchae\n* Experience the delicious side of plant-based eating! Our Korean vegan dumplings are filled with flavorful vegetables and wrapped in a perfectly chewy dumpling skin. Crispy when pan-fried, comforting when steamed—every bite is packed with goodness!",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Vegan+dumpling"
+      }
+    ]
+  },
+  {
+    "id": "312-81-85139",
+    "name": "Hongil Industrial Co., Ltd",
+    "businessNumber": "312-81-85139",
+    "booth": "D22",
+    "category": "K-Lifestyle",
+    "subcategory": "Home & Garden Products",
+    "industry": "Manufacturing",
+    "oemOdm": "Available",
+    "website": "https://hongilhose.com/",
+    "websites": [
+      "https://hongilhose.com/"
+    ],
+    "catalog": "https://drive.google.com/open?id=1AcL-Gj_TrE8hGqKiH9oaik3IbEGXDoov&usp=drive_copy",
+    "catalogs": [
+      "https://drive.google.com/open?id=1AcL-Gj_TrE8hGqKiH9oaik3IbEGXDoov&usp=drive_copy"
+    ],
+    "products": [
+      {
+        "id": "product-01",
+        "imageIndex": 1,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-85139_1.jpg",
+        "name": "Home & Garden Hose",
+        "description": "1) Applications\n-For home, garden, and livestock use\n-Suitable for fish markets and vinyl greenhouses\n-For horticulture and gardening in large flower beds or open areas\n-For transfer of other flowable liquids or materials\n2) Features\n-Lightweight with excellent flexibility\n-Easy to install and handle\n-Manufactured from eco-friendly, food-contact safe, non-toxic materials\n-Custom sizes available upon request - dimensional tolerance: ±0.5 mm",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Home+&+Garden+Hose"
+      },
+      {
+        "id": "product-02",
+        "imageIndex": 2,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-85139_2.jpg",
+        "name": "Food Grade Clear Braided Hose",
+        "description": "1) Applications\n-For water supply and drainage in homes, industry, agriculture, and machinery facilities\n-For industrial equipment piping and the transfer of various liquids and powders\n-Suitable for food-processing equipment and other specialized applications\n2) Features\n-High transparency for easy visual inspection of contents\n-Excellent flexibility and resilience, resistant to deformation\n-Great resistance to cold, heat, and chemicals\n-Manufactured from eco-friendly, food-contact safe, non-toxic materials\n-Custom sizes available upon request - dimensional tolerance: ±0.5 mm",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Food+Grade+Clear+Braided+Hose"
+      },
+      {
+        "id": "product-03",
+        "imageIndex": 3,
+        "imageUrl": "https://kiminjooy.github.io/la-directory/images/312-81-85139_3.jpg",
+        "name": "Anti-Twist Car Wash Reel",
+        "description": "1) Applications\n-For car washing, garden use, and cleaning livestock facilities\n-For other cleaning tasks, such as windows and general surfaces\n2) Features\n-Lightweight and easy to handle\n-Convenient to store\n-Adjustable spray pattern\n-Manufactured from eco-friendly, food-contact safe, non-toxic materials\n-Patented braided construction prevents twisting and kinking during use, ensuring smooth fluid flow",
+        "certs": [],
+        "certificationText": "",
+        "meetingRequest": "https://docs.google.com/forms/d/e/1FAIpQLSedBhzXZkrm8meXVY-RPBUb8N2feuUTkhAC-0kYAzCOpI6Klg/viewform?usp=pp_url&entry.288305412=Anti-Twist+Car+Wash+Reel"
+      }
+    ]
+  }
+]
